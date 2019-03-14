@@ -1,3 +1,4 @@
+truevoice_data/
 *.csv
 /model
 /ft_data
